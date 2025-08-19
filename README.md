@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Olá, eu sou o João Parisi!
 
-<!--
-**JoaoParisi/JoaoParisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de **Sistemas de Informação**  
+🚀 Interessado em **programação, tecnologia e inovação**  
+📚 Atualmente aprendendo **HTML, CSS, JavaScript e Python**  
+🎯 Objetivo: me tornar desenvolvedor fullstack
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologias que estou estudando
+- HTML5 / CSS3
+- JavaScript (ES6+)
+- Python
+- Git & GitHub
+
+---
+
+## 📊 Estatísticas do GitHub
+![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoparisi&show_icons=true&theme=radical)
+
+---
+
+## 📫 Como me encontrar
+- GitHub: https://github.com/JoaoParisi
+- Email: joaovictorpw4@gmail.com
+- LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-parisi-b0302a253/
+
+---
+
+⭐️ Feito com dedicação enquanto aprendo programação 🚀
