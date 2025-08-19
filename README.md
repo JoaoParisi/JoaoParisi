@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o João Parisi!
+# 👋 Olá, eu sou João Parisi!
 
 💻 Estudante de **Sistemas de Informação**  
 🚀 Interessado em **programação, tecnologia e inovação**  
