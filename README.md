@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou João Parisi!
 
-💻 Estudante de **Sistemas de Informação**  
+💻 Estudante de **TI**  
 🚀 Interessado em **programação, tecnologia e inovação**  
 📚 Atualmente aprendendo **HTML, CSS, JavaScript e Python**  
 🎯 Objetivo: me tornar desenvolvedor fullstack
